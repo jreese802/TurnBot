@@ -1,0 +1,17 @@
+{
+  "name": "TurnBot",
+  "version": "0.0.2",
+  "description": "A Civ V/GMR Discord Bot for my server",
+  "main": "bot.js",
+  "author": "Radical",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^2.4.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
